@@ -1,7 +1,7 @@
 # Quick-Start Guide Collection for UCL
-**A selection of guides written for University Center Leeds so other students have more resources to get a head-start with a range of topics relating to Programming, Mathematics and everything in between (where necessary).**
+**A selection of guides written for University Center Leeds so other students have more resources to get a head-start with a range of topics relating to Programming, Mathematics and everything in between (where possible).**
 
-These guides are provided under the MIT License and are intended for educational use. It is recommended that students refer to these guides as a starting point to the topics provided. We encourage students to explore and experiment with the topics so that they can find new information and new resources.
+These guides are provided under the MIT License and are intended for educational use. It is recommended that students refer to these guides as a starting point to the topics provided. I encourage other students to explore and experiment with the topics so that they can find new information and new resources.
 
 Each guide is written and proof-read as soon as possible with a focus on accuracy and simplicity. There may be errors and it would be appreciated if they were reported through the Issues section of this repository.
 
