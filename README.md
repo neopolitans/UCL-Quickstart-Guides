@@ -18,4 +18,4 @@ Example - Quick-Start C#: Documenting your code with XML.
 Gilbertson, A. (2023) Quick-Start C#: Documenting your code with XML. Available at: https://github.com/neopolitans/UCL-Quickstart-Guides/blob/main/CSharp/CSharp-Quickstart_Introduction-To-XML.pdf (Accessed: 27 April 2023).
 ```
 
-If the formatting style changes, your tutors may have already supplied the required resources and you should check your class in Google Classroom (or whichever software takes it's place).
+If the formatting style changes, your tutors may have already supplied the required resources and you should check your class in Google Classroom (or whichever software takes it's place). Additionally, in this case, please create an issue of 'Incorrect Citation Type' bundled with any updated documentation provided by UC Leeds.
